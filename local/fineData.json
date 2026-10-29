@@ -1,0 +1,5 @@
+{
+  "freeOverdueDays": 7,
+  "dailyFine": 5000,
+  "missingAfterMonths": 6
+}

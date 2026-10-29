@@ -1,0 +1,50 @@
+
+{
+  "bookData": [
+    {
+      "bookId": "A001",
+      "title": "how to Ciputra",
+      "author": "Christiano cihuaha",
+      "replacementPrice": 350000,
+      "status": "available",
+      "stockAvailable": 0,
+      "totalStock": 4
+    },
+    {
+      "bookId": "B001",
+      "title": "Welcome to mobile legends",
+      "author": "Ir. Bryan Tungadi S.T., M.T.",
+      "replacementPrice": 300000,
+      "status": "borrowed",
+      "stockAvailable": 3,
+      "totalStock": 4
+    },
+    {
+      "bookId": "C001",
+      "title": "What If",
+      "author": "Steve",
+      "replacementPrice": 450000,
+      "status": "available",
+       "stockAvailable": 4,
+      "totalStock": 4
+    },
+    {
+      "bookId": "D001",
+      "title": "Why is AI my life",
+      "author": "Elon Musk",
+      "replacementPrice": 500000,
+      "status": "borrowed",
+      "stockAvailable": 2,
+      "totalStock": 4
+    },
+    {
+      "bookId": "E001",
+      "title": "I Love Bryan",
+      "author": "Dayrent",
+      "replacementPrice": 400000,
+      "status": "available",
+      "stockAvailable": 4,
+      "totalStock": 4
+    }
+  ]
+}
